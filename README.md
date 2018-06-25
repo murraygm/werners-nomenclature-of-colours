@@ -17,7 +17,7 @@ Data version of colour tables from the 1814 book by By P. Syme "Werner's nomencl
 * sampling scan quality: rough indication of colour balance (Good, OK, Bad)
 * sampling notes: Note of technique to get colour value
 
-The text is as close to the book as possible, with caps and oddities. Also the 7 column names match to the books table. One oddity is Colour 109. In the book facsimile I have (based on British Museum's copy) it clearly says 'Olive Brown' but both in the table and in the text. However in the Internet Archive scans it says 'Clove Brown' but 'Olive Brown' in the text.
+The text is as close to the book as possible, with caps and oddities. Also the 7 column names match to the books table. One oddity is Colour 109. In the book facsimile I have (based on British Museum's copy) it clearly says 'Olive Brown' both in the table and in the text. However, in the Internet Archive scans it says 'Clove Brown' but 'Olive Brown' in the text.
 
 I added the hex/rbg/hsl sampling values for fun mostly. Simple eyedropper samples from Photoshop and not from color corrected scans, just the Internet Archive scans so can seem a little off. 
 
