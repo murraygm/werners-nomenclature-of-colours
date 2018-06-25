@@ -20,3 +20,8 @@ Data version of colour tables from the 1814 book by By P. Syme "Werner's nomencl
 The text is as close to the book as possible, with caps and oddities. Also the 7 column names match to the books table. One oddity is Colour 109. In the book facsimile I have (based on British Museum's copy) it clearly says 'Olive Brown' but both in the table and in the text. However in the Internet Archive scans it says 'Clove Brown' but 'Olive Brown' in the text.
 
 I added the hex/rbg/hsl sampling values for fun mostly. Simple eyedropper samples from Photoshop and not from color corrected scans, just the Internet Archive scans so can seem a little off. 
+
+**Why did I do this?**
+
+I'm doing a few side projects involving colour analysis and stumbled across this brilliant data resource: [Corpora](https://github.com/dariusk/corpora) by [Darius Kazemi](https://github.com/dariusk).
+The color datasets are great and as this book wash fresh to hand, not to big, and seemingly not available as data I thought it would be a good addition. 
