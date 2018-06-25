@@ -13,7 +13,7 @@ Data version of colour tables from the 1814 book by By P. Syme "Werner's nomencl
 * Component parts (OCR transcribed)	: Component parts text from book (via OCRed text file on Internet Archive) 
 * sampled colour value - hex: hex colour without #
 * sampled colour value - rgb: comma separated rgb set
-* sampled colour value - hsl:c omma separated HSL (full degrees 0-359, %, %) set
+* sampled colour value - hsl: comma separated HSL (full degrees 0-359, %, %) set
 * sampling scan quality: rough indication of colour balance (Good, OK, Bad)
 * sampling notes: Note of technique to get colour value
 
