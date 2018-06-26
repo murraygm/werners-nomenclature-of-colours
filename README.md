@@ -1,20 +1,20 @@
 # werners-nomenclature-of-colours
-Data version of colour tables from the 1814 book by By P. Syme "Werner's nomenclature of colours Adapted to Zoology, Botany, Chemistry, Mineralogy, Anatomy, and the Arts" -  (https://archive.org/details/gri_c00033125012743312)
+Data version of colour tables from the 1814 book by By P. Syme; "Werner's Nomenclature of Colours Adapted to Zoology, Botany, Chemistry, Mineralogy, Anatomy, and the Arts". The book Charles Darwin used to describe colours in nature on his HMS Beagle voyage. See it in full: (https://archive.org/details/gri_c00033125012743312)
 
 **Data structure**
 * Number : Colour number id from book (1-110) 
 * Names : Text colour name from book
 * Colours	: URL to page on Archive.org with parent colour swatch table (in book it's a painted colour chip)
-* Animal : Text colour animal for reference from book 
-* Vegetable : Text colour animal for reference from book 
-* Mineral	: Text colour animal for reference from book 
+* Animal : Text description of animal for reference from book 
+* Vegetable : Text description of vegetable for reference from book 
+* Mineral	: Text description of mineral for reference from book 
 * Category : Chapter category from book (mostly plural - Blacks, Whites, Blues, Greens, Purples, Yellows, Browns but also Red and Orange)
 
-* Component parts (OCR transcribed)	: Component parts text from book (via OCRed text file on Internet Archive) 
+* Component parts (OCR transcribed)	: Component parts text from book (via OCRed text file on Archive.org) 
 * sampled colour value - hex: hex colour without #
 * sampled colour value - rgb: comma separated rgb set
 * sampled colour value - hsl: comma separated HSL (full degrees 0-359, %, %) set
-* sampling scan quality: rough indication of colour balance (Good, OK, Bad)
+* sampling scan quality: rough indication of colour balance (Good, OK, Bad) to hint at sampled colour's accuracy
 * sampling notes: Note of technique to get colour value
 * IntArcOrg image url: Direct link to image on Archive.org for parent colour swatch table 
 
