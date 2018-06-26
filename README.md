@@ -4,7 +4,7 @@ Data version of colour tables from the 1814 book by By P. Syme "Werner's nomencl
 **Data structure**
 * Number : Colour number id from book (1-110) 
 * Names : Text colour name from book
-* Colours	: URL to page on Internet Archive with parent colour swatch table (in book it's a painted colour chip)
+* Colours	: URL to page on Archive.org with parent colour swatch table (in book it's a painted colour chip)
 * Animal : Text colour animal for reference from book 
 * Vegetable : Text colour animal for reference from book 
 * Mineral	: Text colour animal for reference from book 
@@ -16,8 +16,9 @@ Data version of colour tables from the 1814 book by By P. Syme "Werner's nomencl
 * sampled colour value - hsl: comma separated HSL (full degrees 0-359, %, %) set
 * sampling scan quality: rough indication of colour balance (Good, OK, Bad)
 * sampling notes: Note of technique to get colour value
+* IntArcOrg image url: Direct link to image on Archive.org for parent colour swatch table 
 
-The text is as close to the book as possible, with caps and oddities. Also the 7 column names match to the books table. One oddity is Colour 109. In the book facsimile I have (based on British Museum's copy) it clearly says 'Olive Brown' both in the table and in the text. However, in the Internet Archive scans it says 'Clove Brown' but 'Olive Brown' in the text.
+The text is as close to the book as possible, with caps and oddities. Also the first 6 column names match to the book's table. One oddity in the data is Colour 109. In the book facsimile I have (based on British Museum's copy) it clearly says 'Olive Brown' both in the table and in the text. However, in the Internet Archive scans it says 'Clove Brown' but 'Olive Brown' in the text.
 
 I added the hex/rbg/hsl sampling values for fun mostly. Simple eyedropper samples from Photoshop and not from color corrected scans, just the Internet Archive scans so can seem a little off. 
 
