@@ -28,4 +28,4 @@ I added the hex/rbg/hsl sampling values for fun mostly. Simple eyedropper sample
 **Why did I do this?**
 
 I'm doing a few side projects involving colour analysis and stumbled across this brilliant data resource: [Corpora](https://github.com/dariusk/corpora) by [Darius Kazemi](https://github.com/dariusk).
-The color datasets are great and as this book wash fresh to hand, not too big, and seemingly not available as data I thought it would be a good addition. 
+The color datasets are great and as this book was fresh to hand, not too big, and seemingly not available as data I thought it would be a good addition. 
