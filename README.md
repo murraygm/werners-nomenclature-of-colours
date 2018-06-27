@@ -22,7 +22,7 @@ Data version of colour tables from the 1814 book by By P. Syme; "Werner's Nomenc
 
 The text is as close to the book as possible, with caps and oddities. Also the first 6 column names match to the book's table. One oddity in the data is Colour 109. In the book facsimile I have (based on British Museum's copy) it clearly says 'Olive Brown' both in the table and in the text. However, in the Internet Archive scans it says 'Clove Brown' but 'Olive Brown' in the text.
 
-I added the hex/rbg/hsl sampling values for fun mostly. Simple eyedropper samples from Photoshop and not from color corrected scans, just the Internet Archive scans so can seem a little off. 
+I added the hex/rbg/hsl sampling values for fun mostly. Simple eyedropper samples from Photoshop and with some attempt to colour correct the yellowing of the pages, so not true to the scans. 
 
 **Why did I do this?**
 
