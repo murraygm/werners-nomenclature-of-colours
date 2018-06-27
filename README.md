@@ -1,6 +1,8 @@
 # werners-nomenclature-of-colours
 Data version of colour tables from the 1814 book by By P. Syme; "Werner's Nomenclature of Colours Adapted to Zoology, Botany, Chemistry, Mineralogy, Anatomy, and the Arts". The book Charles Darwin used to describe colours in nature on his HMS Beagle voyage. See it in full: (https://archive.org/details/gri_c00033125012743312)
 
+![palletes](werner.png)
+
 **Data structure**
 * Number : Colour number id from book (1-110) 
 * Names : Text colour name from book
