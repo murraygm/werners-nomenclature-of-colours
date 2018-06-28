@@ -16,7 +16,7 @@ Data version of colour tables from the 1814 book by By P. Syme; "Werner's Nomenc
 * colour value - rgb: this is a straight sampling of colour averaged from a 'blurred' version of the swatch (in chips_blurred folder - isolated data in chipColours.xlsx), no colour correction (done using colorThief.py) 
 * sampled colour value - hex: hex colour without #
 * sampled colour value - rgb: comma separated rgb set
-* sampled colour value - hsl: comma separated HSL (full degrees 0-359, %, %) set
+* sampled colour value - hsl: comma separated HSL (full degrees 0-359, %, %) set (derived from sampled colour value - rgb) 
 * sampling scan quality: rough indication of colour balance (Good, OK, Bad) to hint at sampled colour's accuracy
 * sampling notes: Note of technique to get colour value
 * IntArcOrg image url: Direct link to image on Archive.org for parent colour swatch table 
